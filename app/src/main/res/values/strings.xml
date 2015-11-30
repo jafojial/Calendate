@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calendate</string>
+
+    <string name="hello_world">Welcome to CALENDATE!</string>
+    <string name="motto">To know our story for build a best futur</string>
+    <string name="action_settings">Settings</string>
+</resources>

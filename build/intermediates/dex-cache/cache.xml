@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-61b01a1d598ab2002b17a9ed8fee09489051dcba.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-f392dc7cda9409e25acaf3f9b0b2f05349210521.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-a8683b228691318d4c60d18f2b807eecf424b8e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-80c0095ef12fbc398d4d880e7ea81469ab644621.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-b1b8fc4e7eb7466c330c643854046cdf4ff1a345.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-3f7733185e28d75617810d9216b62c20696af293.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-6bdcb5d5d541407f3f65be0ba85e0e625c6da89a.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-e0a64978f033a3f1bdf09aa288dc18a21cc34d15.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-837b109ba781242ee8d42cf3f456a8c3e74a0cc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-2f244e55d7780104e5c9d897e838c7d7f62d0be6.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-120d1e642c60bf26732e301cdba0e8509e2c1d20.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-586e629c174d08d967a72e1780d65e9d04542640.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-0ed87c06f3f338693f6535cbb5e4b1621c825b2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-ed4e169bfeef4e3e6c9bcd20bd1ab42a59ae615b.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-2226251e3336f9cd8ce7fd50d7335d2a803aab99.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-f5a9c27169bba4663be8e26e466be30c3ff1f7ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-f760a23c4aba16114075c57a400bc922392eeb87.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-ab505fda48bc7a0811e21b01025a9b3db0b06fdb.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-17cb6053d3c16e4565e3d8edddd92790ac0789f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-eda413c6b60f99a9785b178bbdd3455ebd137b26.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-43863654f1a6e812fdf080cab2dd8ea22096bfca.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\classes-fb45339c1039135876ea8c4a3f33ef3a2d6b8041.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\JAFOJIAL\AndroidStudioProjects\Calendate\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-da88a51d31f9033c1c9fee7ee9255209da4d3309.jar" />
+    </item>
+
+</items>
